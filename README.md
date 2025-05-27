@@ -67,9 +67,9 @@ LinkedIn: https://linkedin.com/in/vinasdev
 
 Email: vinnyprado1402@gmail.com
 
-⭐ Contribute! Suggestions, improvemen
+⭐ Contribua! Sugestões, melhorias e contribuições são sempre bem-vindas! Basta abrir uma issue ou enviar um pull request.
 
-================================================================================================================================================
+============================================================================================
 
 ENGLISH
 
@@ -140,4 +140,4 @@ GitHub: https://github.com/seu-usuario
 LinkedIn: https://linkedin.com/in/vinasdev
 Email: vinnyprado1402@gmail.com
 
-⭐ Contributions welcome! Suggestions, improvements, pull requests are highly appreciated!
+⭐ Contribute! Suggestions, improvements, and contributions are always welcome! Just open an issue or submit a pull request.
