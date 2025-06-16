@@ -61,7 +61,7 @@ Autor ✍️
 
 Feito com ❤️ por Vinnícius Yuri
 
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/Vinn4s
 
 LinkedIn: https://linkedin.com/in/vinasdev
 
@@ -136,7 +136,7 @@ Object-oriented programming with inheritance and polymorphism
 Author ✍️
 Made with ❤️ by Vinnícius Yuri
 
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/Vinn4s
 LinkedIn: https://linkedin.com/in/vinasdev
 Email: vinnyprado1402@gmail.com
 
